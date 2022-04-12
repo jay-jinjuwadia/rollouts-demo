@@ -6,7 +6,7 @@ various deployment strategies and progressive delivery features of Argo Rollouts
 ![img](./demo.png)
 
 ## Examples
-
+commit
 The following examples are provided:
 
 | Example | Description |
